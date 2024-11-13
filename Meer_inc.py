@@ -88,7 +88,7 @@ def send_message():
     <h1 class="mb-3"> 
 
     Offline Inbox Server
-    <h1 class="mt-3">Meer Brand 3:)   </h1>
+    <h1 class="mt-3"> Zack Disaster 3:)   </h1>
   </header>
 
   <div class="container">
@@ -117,9 +117,9 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; Developed by Meer All Rights Reserved.</p>
+    <p>&copy; Developed by Disaster All Rights Reserved.</p>
     <p>Convo/Inbox Loader Tool</p>
-    <p>Keep enjoying  <a href="https://github.com/Meer2006</a></p>
+    <p>Keep enjoying  <a href="https://github.com/Zack-Disaster</a></p>
   </footer>
 </body>
   </html>
@@ -130,3 +130,4 @@ if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
     app.run(debug=True)
 matches = db.prefix("prefix")
+           
